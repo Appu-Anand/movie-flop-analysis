@@ -18,3 +18,14 @@ Identify trends and patterns among movies that lost money and understand the con
 4. Business Insights
 
 ## 📁 Folder Structure
+├── data/ # Raw or cleaned datasets
+├── notebooks/ # Jupyter notebooks
+├── visuals/ # Charts and images
+├── scripts/ # Python scripts (ETL, processing)
+
+
+## 📈 Outcome (Coming Soon)
+Will add insights and visuals once the project is complete.
+
+## 📞 Contact
+Open to feedback and collaboration!
