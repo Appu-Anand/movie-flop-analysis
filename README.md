@@ -1,31 +1,27 @@
 # 🎬 Movie Flop Analysis
 
-## 📌 Overview
-This project explores why certain movies fail at the box office despite large budgets or famous casts.
+This project analyzes box office flop movies using TMDB data.  
+The goal is to understand why some high-budget movies fail financially.
 
-## 🛠️ Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn)
+## 📊 Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - Jupyter Notebook
-- Power BI (optional)
 
-## 📊 Problem Statement
-Identify trends and patterns among movies that lost money and understand the contributing factors.
+## 📌 Key Questions
+- What are the common traits of flop movies?
+- Do budget and ratings affect revenue?
+- Can we spot patterns in failed projects?
 
-## 🔍 Planned Steps
-1. Data Cleaning
-2. Exploratory Data Analysis (EDA)
-3. Visualizations
-4. Business Insights
+## 📁 Dataset
+Source: [Kaggle TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
-## 📁 Folder Structure
-├── data/ # Raw or cleaned datasets
-├── notebooks/ # Jupyter notebooks
-├── visuals/ # Charts and images
-├── scripts/ # Python scripts (ETL, processing)
+## 🔍 Key Insights
+- Many flops had IMDb ratings < 6.
+- No strong relationship between popularity and success.
+- Overbudgeting was common in most flop movies.
 
+---
 
-## 📈 Outcome (Coming Soon)
-Will add insights and visuals once the project is complete.
-
-## 📞 Contact
-Open to feedback and collaboration!
+> ✨ This is a beginner-friendly data analysis project for my portfolio. More projects coming soon!
